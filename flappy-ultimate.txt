@@ -81,7 +81,7 @@ const bird = {
 // Pipes
 const pipes = [];
 const pipeWidth = 80;
-const gap = 260s;
+const gap = 180;
 const speed = 3;
 
 // Input
